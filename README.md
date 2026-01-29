@@ -7,7 +7,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e dedico meu tempo �
 - 🔭 Trabalhando em projetos de APIs assíncronas e integração de dados.
 - ⚡ Foco total em **performance**, **tipagem** e **clean code**.
 - 🌱 Em constante aprendizado sobre Docker e boas práticas de DevOps para backend.
-- 📫 Como me encontrar: [www.linkedin.com/in/vitor-hugo-rodrigues-de-lins]
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vitor-hugo-rodrigues-de-lins)
 
 ---
 
@@ -29,16 +29,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e dedico meu tempo �
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
 
 ### 📩 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-hugo-rodrigues-de-lins)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-rodrigues-de-lins)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorhugo8899o@gmail.com)
