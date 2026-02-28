@@ -10,16 +10,16 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
-- 🔭 Trabalhando em projetos de APIs assíncronas e integração de dados.
-- ⚡ Foco total em **performance**, **tipagem** e **clean code**.
-- 🌱 Em constante aprendizado sobre Docker e boas práticas de DevOps.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vitor-hugo-rodrigues-de-lins)
+-  Trabalhando em projetos de APIs assíncronas e integração de dados.
+-  Foco total em **performance**, **tipagem** e **clean code**.
+-  Em constante aprendizado sobre Docker e boas práticas de DevOps.
+
 
 <br>
 
-### 🛠️ Minha Stack Tecnológica
+###  Minha Stack Tecnológica
 
 **Backend & Frameworks**
 <br>
