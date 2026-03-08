@@ -1,5 +1,8 @@
 ---
 # 💾 Vítor Hugo
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+Back-end;Análise+e+Desenv.+de+Sistemas" alt="Typing SVG" />
+</p>
 
 <br/>
 Sou estudante de Análise e Desenvolvimento de Sistemas em Brasília, com foco em desenvolvimento Back-end. Dedico meus estudos à construção de arquiteturas escaláveis e eficientes, aplicando princípios de Clean Code e SOLID para garantir sistemas de alta manutenção. Atualmente, aprofundo meus conhecimentos em ecossistemas de alta performance e otimização de APIs
