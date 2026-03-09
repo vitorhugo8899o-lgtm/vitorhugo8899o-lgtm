@@ -29,6 +29,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas em Brasília, com foco e
   <br>
   <a href="https://www.linkedin.com/in/vitor-hugo-rodrigues-de-lins" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:vitorhugo8899o@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://portifolio-two-beta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFÓLIO-black" target="_blank"></a>
 </div>
 
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorhugo8899o-lgtm/vitorhugo8899o-lgtm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorhugo8899o-lgtm/vitorhugo8899o-lgtm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorhugo8899o-lgtm/vitorhugo8899o-lgtm/output/pacman-contribution-graph.svg">
+</picture>
 
